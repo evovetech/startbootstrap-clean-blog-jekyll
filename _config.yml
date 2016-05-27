@@ -4,7 +4,7 @@ header-img: img/home-bg.jpg
 email: layne@evove.tech
 copyright_name: Layne Penney
 description: "Blog"
-baseurl: ""
+baseurl: "/startbootstrap-clean-blog-jekyll"
 url: "http://laynepenney.com"
 twitter_username: laynepenney
 github_username:  laynepenney
